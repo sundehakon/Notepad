@@ -1,0 +1,1 @@
+C:\Users\hakon\Documents\MAUISqlite\MAUISql\MAUISql.csproj;x64
